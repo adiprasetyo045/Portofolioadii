@@ -1,8 +1,7 @@
 ---
-title: "Hubungi Saya"
+title: ""
 layout: page
 ---
-
 <div class="flex flex-col items-center min-h-screen bg-gray-900 text-white py-12 px-4">   
     <!-- Judul -->
     <h1 class="text-5xl font-bold tracking-wide text-gray-100">Hubungi saya</h1>
@@ -27,15 +26,5 @@ layout: page
         </div>
         <button type="submit" class="w-full bg-blue-500 text-white p-3 rounded-lg hover:bg-blue-600 transition duration-300">Kirim Pesan</button>
     </form>
-    <!-- Bagian Sosial Media -->
-    <div class="mt-8">
-        <p class="text-gray-400">Media sosial saya</p>
-        <div class="flex justify-center space-x-4 mt-2">
-            <a href="https://twitter.com/prasetyaadi" class="text-gray-400 text-2xl hover:text-blue-400">🐦</a>
-            <a href="https://facebook.com/prasetyaadi" class="text-gray-400 text-2xl hover:text-blue-400">📘</a>
-            <a href="https://github.com/adiprasetyo" class="text-gray-400 text-2xl hover:text-blue-400">🐙</a>
-            <a href="https://instagram.com/prasetyaadi" class="text-gray-400 text-2xl hover:text-blue-400">📸</a>
-        </div>
-    </div>
     
 </div>
