@@ -20,7 +20,6 @@ Silakan hubungi saya melalui salah satu platform berikut:
 ---
 
 ## 📬 Kirim Pesan
-
 Jika ingin mengirim pesan langsung, silakan gunakan formulir di bawah ini:
 
 <form class="max-w-lg mx-auto bg-gray-800 p-6 rounded-lg">
