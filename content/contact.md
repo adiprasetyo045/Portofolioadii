@@ -1,5 +1,5 @@
 ---
-title: "Hubungi Saya"
+title: ""
 layout: page
 ---
 

@@ -77,8 +77,8 @@ education:
       Mata Pelajaran Terkait:
 
       Sistem Komputer
-      Pemantauan Progres Pembelajaran
-      Pengenalan Learning Management System (LMS)
+      -Pemantauan Progres Pembelajaran
+      -Pengenalan Learning Management System (LMS)
 
 work:
   - position: Staff Rumah Makan Angkringan Pak Mo
