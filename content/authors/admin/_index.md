@@ -38,8 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/adiprasetyo/
   - icon: brands/github
-    url: https://github.com/adiprasetyo045/Portofolioadii.git
-
+    url: https://github.com/adiprasetyo045
 interests:
   - Software Engineering
   - Web Development

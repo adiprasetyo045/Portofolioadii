@@ -7,11 +7,15 @@ layout: page  # Sesuaikan dengan sistem templating yang digunakan
 
 Silakan hubungi saya melalui salah satu platform berikut:
 
-- 📧 **Email:** [prasetyaadhi398@gmail.com](mailto:prasetyaadhi398@gmail.com)
-- 💼 **Instagram:** [instagram/prasetyaadi](https://www.instagram.com/adiprasetyo/)
-- 🐙 **GitHub:** [github.com/adiprasetyo](https://github.com/adiprasetyo045)
-- 💼 **Twitter:** [x/prasetyaadi](https://x.com/AadyprazZy)
-- 📍 **Lokasi:** [Semarang, Indonesia](https://www.google.com/maps/place/6%C2%B058'22.1%22S+110%C2%B018'06.1%22E/@-6.9727998,110.2991159,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.9727998!4d110.3016908?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D)
+## 📞 Hubungi Saya
+
+Silakan hubungi saya melalui salah satu platform berikut:
+
+- 📧 **Email**: [prasetyaadhi398@gmail.com](mailto:prasetyaadhi398@gmail.com)
+- 👜 **Instagram**: [instagram.com/prasetyaadi](https://instagram.com/prasetyaadi)
+- 🐙 **GitHub**: [github.com/adiprasetyo](https://github.com/adiprasetyo)
+- 🐦 **Twitter**: [x.com/prasetyaadi](https://x.com/prasetyaadi)
+- 📍 **Lokasi**: [Semarang, Indonesia](https://www.google.com/maps?q=Semarang,Indonesia)
 
 ---
 
