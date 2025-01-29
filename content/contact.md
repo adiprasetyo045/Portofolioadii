@@ -4,37 +4,39 @@ layout: page  # Sesuaikan dengan sistem templating yang digunakan
 ---
 Silakan hubungi saya melalui salah satu platform berikut:
 
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 text-center mt-6">
-    <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <a href="mailto:prasetyaadhi398@gmail.com" class="text-white text-xl font-semibold hover:text-blue-400 flex items-center justify-center">
-            📧 Email
-        </a>
-    </div>
-    <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <a href="https://instagram.com/prasetyaadi" class="text-white text-xl font-semibold hover:text-pink-400 flex items-center justify-center">
-            👜 Instagram
-        </a>
-    </div>
-    <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <a href="https://github.com/adiprasetyo" class="text-white text-xl font-semibold hover:text-gray-400 flex items-center justify-center">
-            🐙 GitHub
-        </a>
-    </div>
-    <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <a href="https://x.com/prasetyaadi" class="text-white text-xl font-semibold hover:text-blue-400 flex items-center justify-center">
-            🐦 Twitter
-        </a>
-    </div>
-    <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <a href="https://www.google.com/maps?q=Semarang,Indonesia" class="text-white text-xl font-semibold hover:text-green-400 flex items-center justify-center">
-            📍 Lokasi
-        </a>
+<div class="flex justify-center">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 text-center mt-6">
+        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+            <a href="mailto:prasetyaadhi398@gmail.com" class="text-white text-xl font-semibold flex items-center justify-center hover:text-blue-400">
+                📧 Email
+            </a>
+        </div>
+        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+            <a href="https://instagram.com/prasetyaadi" class="text-white text-xl font-semibold flex items-center justify-center hover:text-pink-400">
+                👜 Instagram
+            </a>
+        </div>
+        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+            <a href="https://github.com/adiprasetyo" class="text-white text-xl font-semibold flex items-center justify-center hover:text-gray-400">
+                🐙 GitHub
+            </a>
+        </div>
+        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+            <a href="https://x.com/prasetyaadi" class="text-white text-xl font-semibold flex items-center justify-center hover:text-blue-400">
+                🐦 Twitter
+            </a>
+        </div>
+        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+            <a href="https://www.google.com/maps?q=Semarang,Indonesia" class="text-white text-xl font-semibold flex items-center justify-center hover:text-green-400">
+                📍 Lokasi
+            </a>
+        </div>
     </div>
 </div>
 
 ---
 
-## 📬 Kirim Pesan
+## Kirim Pesan
 
 Jika ingin mengirim pesan langsung, silakan gunakan formulir di bawah ini:
 
