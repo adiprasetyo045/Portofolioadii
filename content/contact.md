@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Hubungi Saya"
 layout: page
 ---
-<div class="flex flex-col items-center min-h-screen bg-gray-900 text-white py-12 px-4">   
+<div class="flex flex-col items-center min-h-screen bg-gray-900 text-white py-12 px-4">
     <!-- Judul -->
     <h1 class="text-5xl font-bold tracking-wide text-gray-100">Hubungi saya</h1>
-    <p class="text-gray-400 mt-2">Saya akan senang menjawab pertanyaan anda!</p>
+    <p class="text-gray-400 mt-2">Saya akan senang menjawab pertanyaan anda!</p>   
     <!-- Formulir -->
     <form class="mt-6 bg-gray-800 p-6 w-full max-w-lg rounded-lg shadow-lg">
         <div class="mb-4">
@@ -27,12 +27,13 @@ layout: page
         <button type="submit" class="w-full bg-blue-500 text-white p-3 rounded-lg hover:bg-blue-600 transition duration-300">Kirim Pesan</button>
     </form>
     <!-- Bagian Sosial Media -->
-<div class="mt-8">
-    <p class="text-gray-400">Media sosial saya</p>
-    <div class="flex flex-col items-center space-y-2 mt-2">
-        <a href="https://x.com/AadyprazZy" class="text-gray-400 text-2xl hover:text-blue-400">🐦</a>
-        <a href="mailto:prasetyaadhi398@gmail.com" class="text-gray-400 text-2xl hover:text-blue-400">📘</a>
-        <a href="https://github.com/adiprasetyo045" class="text-gray-400 text-2xl hover:text-blue-400">🐙</a>
-        <a href="https://www.instagram.com/adiprasetyo/" class="text-gray-400 text-2xl hover:text-blue-400">📸</a>
-    </div>
+    <div class="mt-8">
+        <p class="text-gray-400">Media sosial saya</p>
+        <div class="flex flex-col items-center space-y-2 mt-2">
+            <a href="https://x.com/AadyprazZy" class="text-gray-400 text-2xl hover:text-blue-400">🐦</a>
+            <a href="mailto:prasetyaadhi398@gmail.com" class="text-gray-400 text-2xl hover:text-blue-400">📘</a>
+            <a href="https://github.com/adiprasetyo045" class="text-gray-400 text-2xl hover:text-blue-400">🐙</a>
+            <a href="https://www.instagram.com/adiprasetyo/" class="text-gray-400 text-2xl hover:text-blue-400">📸</a>
+        </div>
+    </div>
 </div>
