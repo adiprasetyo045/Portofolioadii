@@ -6,8 +6,8 @@ title: Adi Prasetyo
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Belajar, Berkembang
-last_name: Berkarya dengan Teknologi
+first_name: Adi 
+last_name: Prasetyo
 
 # Status emoji
 status:
