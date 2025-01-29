@@ -1,57 +1,41 @@
 ---
 title: "Hubungi Saya"
-layout: page  # Sesuaikan dengan sistem templating yang digunakan
+layout: page
 ---
-Silakan hubungi saya melalui salah satu platform berikut:
 
-<div class="flex justify-center">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 text-center mt-6">
-        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-            <a href="mailto:prasetyaadhi398@gmail.com" class="text-white text-xl font-semibold flex items-center justify-center hover:text-blue-400">
-                📧 Email
-            </a>
+<div class="flex flex-col items-center min-h-screen bg-gray-900 text-white py-12 px-4">
+    <!-- Judul -->
+    <h1 class="text-5xl font-bold tracking-wide text-gray-100">CONTACT ME</h1>
+    <p class="text-gray-400 mt-2">I'LL BE GLAD TO ANSWER YOUR QUESTIONS!</p>
+    <!-- Formulir -->
+    <form class="mt-6 bg-gray-800 p-6 w-full max-w-lg rounded-lg shadow-lg">
+        <div class="mb-4">
+            <label for="name" class="block text-white mb-1">Name:</label>
+            <input type="text" id="name" name="name" required class="w-full p-3 border rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500">
         </div>
-        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-            <a href="https://instagram.com/prasetyaadi" class="text-white text-xl font-semibold flex items-center justify-center hover:text-pink-400">
-                👜 Instagram
-            </a>
+        <div class="mb-4">
+            <label for="email" class="block text-white mb-1">Email address:</label>
+            <input type="email" id="email" name="email" required class="w-full p-3 border rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500">
         </div>
-        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-            <a href="https://github.com/adiprasetyo" class="text-white text-xl font-semibold flex items-center justify-center hover:text-gray-400">
-                🐙 GitHub
-            </a>
+        <div class="mb-4">
+            <label for="subject" class="block text-white mb-1">Subject:</label>
+            <input type="text" id="subject" name="subject" required class="w-full p-3 border rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500">
         </div>
-        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-            <a href="https://x.com/prasetyaadi" class="text-white text-xl font-semibold flex items-center justify-center hover:text-blue-400">
-                🐦 Twitter
-            </a>
+        <div class="mb-4">
+            <label for="message" class="block text-white mb-1">Your message:</label>
+            <textarea id="message" name="message" required class="w-full p-3 border rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500"></textarea>
         </div>
-        <div class="bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-            <a href="https://www.google.com/maps?q=Semarang,Indonesia" class="text-white text-xl font-semibold flex items-center justify-center hover:text-green-400">
-                📍 Lokasi
-            </a>
+        <button type="submit" class="w-full bg-blue-500 text-white p-3 rounded-lg hover:bg-blue-600 transition duration-300">Send Message</button>
+    </form>
+    <!-- Bagian Sosial Media -->
+    <div class="mt-8">
+        <p class="text-gray-400">I AM SOCIAL</p>
+        <div class="flex justify-center space-x-4 mt-2">
+            <a href="https://twitter.com/prasetyaadi" class="text-white text-2xl hover:text-blue-400">🐦</a>
+            <a href="https://facebook.com/prasetyaadi" class="text-white text-2xl hover:text-blue-400">📘</a>
+            <a href="https://github.com/adiprasetyo" class="text-white text-2xl hover:text-blue-400">🐙</a>
+            <a href="https://instagram.com/prasetyaadi" class="text-white text-2xl hover:text-blue-400">📸</a>
         </div>
     </div>
+    
 </div>
-
----
-
-## Kirim Pesan
-
-Jika ingin mengirim pesan langsung, silakan gunakan formulir di bawah ini:
-
-<form class="max-w-lg mx-auto bg-gray-900 p-6 rounded-lg shadow-lg mt-6">
-    <div class="mb-4">
-        <label for="name" class="block text-white mb-2">Nama:</label>
-        <input type="text" id="name" name="name" required class="w-full p-3 border rounded bg-gray-800 text-white focus:outline-none focus:ring-2 focus:ring-blue-500">
-    </div>
-    <div class="mb-4">
-        <label for="email" class="block text-white mb-2">Email:</label>
-        <input type="email" id="email" name="email" required class="w-full p-3 border rounded bg-gray-800 text-white focus:outline-none focus:ring-2 focus:ring-blue-500">
-    </div>
-    <div class="mb-4">
-        <label for="message" class="block text-white mb-2">Pesan:</label>
-        <textarea id="message" name="message" required class="w-full p-3 border rounded bg-gray-800 text-white focus:outline-none focus:ring-2 focus:ring-blue-500"></textarea>
-    </div>
-    <button type="submit" class="w-full bg-blue-500 text-white p-3 rounded-lg hover:bg-blue-600 transition duration-300">Kirim</button>
-</form>
