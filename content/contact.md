@@ -31,17 +31,16 @@ layout: page
         <p class="text-gray-400 text-lg font-semibold">MEDIA SOSIAL SAYA</p>
         <div class="flex justify-center space-x-6 mt-3">
             <a href="https://x.com/AadyprazZy">
-                <img src="/assets/media/icons/twitter.png" alt="Twitter" class="w-8 h-8 hover:opacity-75">
+                <img src="/assets/media/icons/twitter.svg" alt="Twitter" class="w-8 h-8 hover:opacity-75">
             </a>
             <a href="https://github.com/adiprasetyo045">
-                <img src="/assets/media/icons/github.png" 
-                alt="GitHub" class="w-8 h-8 hover:opacity-75">
+                <img src="/assets/media/icons/github.svg" alt="GitHub" class="w-8 h-8 hover:opacity-75">
             </a>
             <a href=" https://www.instagram.com/adiprasetyo/">
-                <img src="/assets/media/icons/instagram.png" alt="Instagram" class="w-8 h-8 hover:opacity-75">
+                <img src="/assets/media/icons/instagram.svg" alt="Instagram" class="w-8 h-8 hover:opacity-75">
             </a>
             <a href="mailto:prasetyaadhi398@gmail.com">
-                <img src="/assets/media/icons/email.png" alt="Email" class="w-8 h-8 hover:opacity-75">
+                <img src="/assets/media/icons/gmail.svg" alt="Gmail" class="w-8 h-8 hover:opacity-75">
             </a>
         </div>
     </div>
