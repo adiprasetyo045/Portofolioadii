@@ -25,6 +25,5 @@ Jika ingin mengirim pesan langsung, silakan gunakan formulir di bawah ini:
     <input type="email" id="email" name="email" required>
     <label for="message">Pesan:</label>
     <textarea id="message" name="message" required></textarea>
-
     <button type="submit">Kirim</button>
 </form>
