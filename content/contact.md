@@ -27,12 +27,20 @@ layout: page
         <button type="submit" class="w-full bg-blue-500 text-white p-3 rounded-lg hover:bg-blue-600 transition duration-300">Kirim Pesan</button>
     </form>
     <!-- Bagian Sosial Media -->
-<div class="mt-8">
-    <p class="text-gray-400">Media sosial saya</p>
-    <div class="flex flex-col items-center space-y-2 mt-2">
-        <a href="https://twitter.com/prasetyaadi" class="text-gray-400 text-2xl hover:text-blue-400">🐦</a>
-        <a href="https://facebook.com/prasetyaadi" class="text-gray-400 text-2xl hover:text-blue-400">📘</a>
-        <a href="https://github.com/adiprasetyo" class="text-gray-400 text-2xl hover:text-blue-400">🐙</a>
-        <a href="https://instagram.com/prasetyaadi" class="text-gray-400 text-2xl hover:text-blue-400">📸</a>
+    <div class="mt-8">
+        <p class="text-gray-400 text-lg font-semibold">MEDIA SOSIAL SAYA</p>
+        <div class="flex justify-center space-x-6 mt-3">
+            <a href="https://x.com/AadyprazZy">
+                <img src="/assets/media/icons/twitter.png" alt="Twitter" class="w-8 h-8 hover:opacity-75">
+            </a>
+            <a href="https://github.com/adiprasetyo045">
+                <img src="/assets/media/icons/github.png" alt="GitHub" class="w-8 h-8 hover:opacity-75">
+            </a>
+            <a href=" https://www.instagram.com/adiprasetyo/">
+                <img src="/assets/media/icons/instagram.png" alt="Instagram" class="w-8 h-8 hover:opacity-75">
+            </a>
+            <a href="mailto:prasetyaadhi398@gmail.com">
+                <img src="/assets/media/icons/email.png" alt="Email" class="w-8 h-8 hover:opacity-75">
+            </a>
+        </div>
     </div>
-</div>

@@ -127,8 +127,6 @@ languages:
     percent: 30
   - name: Indonesia
     percent: 80
-  - name: Jawa
-    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
