@@ -28,12 +28,12 @@ layout: page
     </form>
     <!-- Bagian Sosial Media -->
     <div class="mt-8">
-        <p class="text-gray-400">Media sosial saya</p>
-        <div class="flex flex-col items-center space-y-2 mt-2">
-            <a href="https://x.com/AadyprazZy" class="text-gray-400 text-2xl hover:text-blue-400">🐦</a>
-            <a href="mailto:prasetyaadhi398@gmail.com" class="text-gray-400 text-2xl hover:text-blue-400">📘</a>
-            <a href="https://github.com/adiprasetyo045" class="text-gray-400 text-2xl hover:text-blue-400">🐙</a>
-            <a href="https://www.instagram.com/adiprasetyo/" class="text-gray-400 text-2xl hover:text-blue-400">📸</a>
-        </div>
+    <p class="text-gray-400">Media sosial saya</p>
+    <div class="flex flex-col items-center space-y-2 mt-2">
+        <a href="https://x.com/AadyprazZy" class="text-gray-400 text-lg hover:text-blue-400">Twitter</a>
+        <a href="mailto:prasetyaadhi398@gmail.com" class="text-gray-400 text-lg hover:text-blue-400">Email</a>
+        <a href="https://github.com/adiprasetyo045" class="text-gray-400 text-lg hover:text-blue-400">GitHub</a>
+        <a href="https://www.instagram.com/adiprasetyo/" class="text-gray-400 text-lg hover:text-blue-400">Instagram</a>
     </div>
+</div>
 </div>
