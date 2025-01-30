@@ -1,5 +1,5 @@
 ---
-title: "Hubungi Saya"
+title: ""
 layout: page
 ---
 <div class="flex flex-col items-center min-h-screen bg-gray-900 text-white py-12 px-4">

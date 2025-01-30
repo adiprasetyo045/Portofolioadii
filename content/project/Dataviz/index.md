@@ -1,5 +1,5 @@
 ---
-title: UAS Data Visualization dengan RStudio
+title: Data Visualization dengan RStudio
 date: 2025-01-20
 external_link: https://adiprasetyo045.github.io/uas-data-visualization/
 tags:
