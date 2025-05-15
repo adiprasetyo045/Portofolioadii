@@ -1,5 +1,5 @@
 ---
-title: 🎉 Kelola proyek anda dengan figma 
+title: 🎉 Kelola proyek anda dengan figma !
 summary: Pelajari cara menggunakan Figma untuk membuat wireframe proyek, prototipe, dan desain kolaboratif secara efektif!
 date: 2025-01-27
 
