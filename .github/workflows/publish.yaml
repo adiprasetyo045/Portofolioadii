@@ -22,7 +22,15 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
+    # Workaround: preload upload-artifact@v3 to prevent GitHub Actions error
+    - name: Workaround: preload upload-artifact@v3
+      uses: actions/upload-artifact@v3
+      with:
+        name: dummy
+        path: README.md
+        if-no-files-found: ignore
+
+    - name: Checkout repository
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
