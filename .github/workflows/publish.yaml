@@ -22,13 +22,6 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-    - name: Preload upload-artifact@v3 (workaround for download info error)
-      uses: actions/upload-artifact@v3
-      with:
-        name: dummy-artifact
-        path: README.md
-        if-no-files-found: ignore
-
     - name: Checkout
       uses: actions/checkout@v4
       with:
