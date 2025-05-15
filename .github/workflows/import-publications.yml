@@ -28,15 +28,17 @@ jobs:
           pip install academic-file-converter
 
       - name: Run Academic File Converter
+        # Cek apakah ada file publications.bib (untuk menghindari error saat file dihapus)
         if: ${{ hashFiles('**/publications.bib') != '' }}
-        run: academic import data/publications.bib -o content/publication/ --compact
+        run: |
+          academic import data/publications.bib -o content/publication/ --compact
 
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: 'content: import publications from Bibtex'
-          title: Hugo Blox Builder - Import latest publications
+          title: 'Hugo Blox Builder - Import latest publications'
           body: |
             Import the latest publications from `publications.bib` to `content/publication/`.
             将最新的出版物从`publications.bib`导入到`content/publication/`。
